@@ -18,7 +18,7 @@
                 <template scope="scope">
                     <img :src="scope.row.logo">
                 </template>
-                
+
             </el-table-column>
             <el-table-column label="操作" width="180">
                 <template scope="scope">
